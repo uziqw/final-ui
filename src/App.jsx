@@ -64,7 +64,7 @@ function App() {
 
   return (
     <div className="app">
-      <h1>Social Feed</h1>
+      <h1>Jamz Media</h1>
 
       <form onSubmit={handleSubmit}>
         <input
